@@ -2,61 +2,77 @@
 
 ### 1.2 Descripcion y Características
 
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de
-texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde
-el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta)
-desconocido usó una galería de textos y los mezcló de tal manera que logró
-hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-tambien ingresó como texto de relleno en documentos electrónicos, quedando
-esencialmente igual al original. Fue popularizado en los 60s con la creación de
-las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más
-recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el
-cual incluye versiones de Lorem Ipsum.
+El interes por relevar las caracteristicas acusticas el recinto en cuestion
+devienen del cartecer personal y tiene como objetivo alcanzar el
+acondicionamiento acustico de dicho ambiente con el fin de realizar 
+actividades de produccion musical del tipo hogareñas (composición, registro de
+fuentes sonoras, mezcla de multiples pistas, etc) de manera idonea.
 
-### 1.1 Dimensiones y Dibujo de la Planta
+Las caracteristicas espaciales del recinto son particulares dado que se trata
+de una cocina conectada a un living comedor, delimitada por un tabique central
+con una abertura en forma de barra y que ademas al cual se accede por un
+pasillo y que tambien esta conectada a un pequeño distribuidor que da paso a
+otras 2 habitaciones.  
 
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de
-texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde
-el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta)
-desconocido usó una galería de textos y los mezcló de tal manera que logró
-hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-tambien ingresó como texto de relleno en documentos electrónicos, quedando
-esencialmente igual al original. Fue popularizado en los 60s con la creación de
-las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más
-recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el
-cual incluye versiones de Lorem Ipsum.
+Resultando en cuatro ambientes vinculados, que conforman la totalidad del recinto y
+que mas allá de que nos concentraremos en el porción mas grande y principal,
+todos los modulos deben ser considerados en las mediciones.
+
+### 1.1 Dimensiones y dibujo de la planta
+
+Las medidas de los cuatro modulos son:
+
+* 448cm x 308cm son las dimenciones el ambiente principal.
+
+* 355cm x 192cm mide la el ambiente superior (cocina).
+
+* 186cm x 95cm ocupa el pasillo de acceso.
+
+* 90cm  x 158 para el distribuidor a las otras habitaciones.
+
+* El alto de los dos ambientes mas grandes es de 255cm y los otros dos tienen
+  de 210cm altura.
+
+En la el plano a continuacion se puede puede ver la planta con vista superior del
+todo el recinto y luego el tabique que divide el ambiente superior (cocina) con el
+inferior (living-comedor).
 
 \begin{center}
 \includepdf[angle=90,pages=-,pagecommand={},width=\textwidth]{planta.pdf}
 \end{center}
 
-## 2. Equipamiento para Registro de las Muestras
+## 2. Equipamiento utilizado para el registro 
 
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de
-texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde
-el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta)
-desconocido usó una galería de textos y los mezcló de tal manera que logró
-hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que
-tambien ingresó como texto de relleno en documentos electrónicos, quedando
-esencialmente igual al original. Fue popularizado en los 60s con la creación de
-las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más
-recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el
-cual incluye versiones de Lorem Ipsum.
+A continuacion se detalla el equimaniento con el cual se realizó el registro de
+las muestras: 
 
 
-## 3. Medidas
+* El micrófono utilizado es del tipo condensador de la marca "RØDE" modelo
+  "NT2-A", en su configuracion *Omnidireccional*, sin atenuación ni recorte de
+  graves.
 
-Las muestras que consideramos son 3. Para el registro de dichas muestras la
-fuente se posicionó en el centro del lateral derecho, a la mitad de la
-distancía que hay entre los límites superiror e inferior del rectangulo
-principal y fue orientada hacia el centro del recinto. La altura de la
-fuente tanto como la del microfonó es tambien la misma en las 3 tómas, 127cm
-equidistantes al piso y al tencho. El micrófono se orientó hacia la fuente en
-las 3 muestras.
+* El monitor por el cual se reprodujo el barrido es de la marca "Edifire" modelo
+  "NT1000".
 
-En el registro de la muestra que se analizará en la **Medida 1** el microfono
+* La placa DAC-ADC con la cual se trabajo es  de la marca "Focusrite" modelo
+  "Safire Pro 24".
+
+* El software utilizado para reproduccir y grabar los barridos fué "Audacity" ,
+  "Octave" se empleó para procesar y analizar los registros y así obtener los
+  valores y confeccionar los gráficos de los Parametros Acústicos. 
+
+## 3. Medidas y Análisis de las Respuesta Impulso
+
+Las muestras que consideramos son 3. Para el registro de las mismas la fuente
+se posicionó en el centro del lateral derecho, a la mitad de la distancía que
+hay entre los límites superiror e inferior del rectangulo principal y fue
+orientada hacia el centro del recinto. La altura de la fuente tanto como la del
+microfonó es tambien la misma en las 3 tómas, 127cm equidistantes al piso y al
+tencho. El micrófono se orientó hacia la fuente en las 3 muestras.
+
+En el registro de la muestra que se analizió en la **Medida 1** el microfono
 se posicionó en el centro del rectangulo principal, equidistante tanto a los
-laterales derecho e izquierdo como a los limites superiores e inferiores de
+laterales derecho e izquierdo como a los limites superior e inferior de
 esta porcion del recinto. 
 
 En la **medida 2** el micrófono se acercó al lateral derecho, 1/4 del total de
@@ -75,40 +91,89 @@ en la Medida 1.
  
 ### 3.1 Medida 1
 
-### 3.1.1 Descripción del registro y posición del micrófono
+#### 3.1.1 Descripción del registro y posición del micrófono
 
-En el registro de la muestra que se analizará en la **Medida 1** el microfono
-se posiciono en el centro del rectangulo principal, equidistante tanto a los
-laterales derecho e izquierdo como a los limites superiores e inferiores de
-esta porcion del recinto.
+En el registro de la muestra que se analizió en la **Medida 1** el micrófono
+se posicionó en el centro del rectangulo principal, equidistante tanto a los
+laterales derecho e izquierdo como a los limites superior e inferior de
+esta porcion del recinto. 
 
-### 3.1.2 Parametros Acústicos a partir del Análisis de la RI, Valores y Gráficos 
+#### 3.1.2 Parametros Acústicos, Valores y Gráficos 
 
-|     | 63      | 125     | 250     | 500    | 1000    | 2000    | 4000    | 8000    | Promedio|
-|-----|---------|---------|---------|--------|---------|---------|---------|---------|---------|
-| TR  | NaN     | 700.20  | 580.57  | 691.56 | 713.49  | 737.08  | 646.37  | 564.20  | 558.11  |
-| EDT | 601.76  | 699.74  | 574.94  | 631.23 | 693.88  | 735.73  | 577.01  | 512.93  | 524.11  |
-| D50 | 0.65552 | 0.42420 | 0.54180 | 0.53377| 0.57629 | 0.58143 | 0.67572 | 0.76474 | 0.75680 |
-| C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755| 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010 |
-| TS  | 37.698  | 45.666  | 39.411  | 39.504 | 39.078  | 41.217  | 29.090  | 20.157  | 21.407  |
+##### 3.1.2.1 TR60
+
+|     | 63      | 125     | 250     | 500     | 1000    | 2000    | 4000    | 8000    | Promedio |
+|-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
+| TR  | NaN     | 700.20  | 580.57  | 691.56  | 713.49  | 737.08  | 646.37  | 564.20  | 558.11   |
+| EDT | 601.76  | 699.74  | 574.94  | 631.23  | 693.88  | 735.73  | 577.01  | 512.93  | 524.11   |
+| D50 | 0.65552 | 0.42420 | 0.54180 | 0.53377 | 0.57629 | 0.58143 | 0.67572 | 0.76474 | 0.75680  |
+| C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755 | 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010  |
+| TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
 
 
 \begin{center}
-\scalebox{0.7}{
-    \input{ tr_edt-medida1.tikz }
+\scalebox{0.8}{
+    \input{ medida1-tredt.tikz }
 }
 \end{center}
 
 \begin{center}
-\scalebox{0.7}{
-    \input{ c50_d50_ts-medida1.tikz }
+\scalebox{0.8}{
+    \input{ medida1-c50d50ts.tikz }
 }
 \end{center}
 
-### 3.1.4 Resultados y Concluciones
+##### 3.1.2.2 TR30
+
+|     | 63      | 125     | 250     | 500     | 1000    | 2000    | 4000    | 8000    | Promedio |
+|-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
+| TR  | NaN     | 700.20  | 580.57  | 691.56  | 713.49  | 737.08  | 646.37  | 564.20  | 558.11   |
+| EDT | 601.76  | 699.74  | 574.94  | 631.23  | 693.88  | 735.73  | 577.01  | 512.93  | 524.11   |
+| D50 | 0.65552 | 0.42420 | 0.54180 | 0.53377 | 0.57629 | 0.58143 | 0.67572 | 0.76474 | 0.75680  |
+| C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755 | 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010  |
+| TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
+
+
+\begin{center}
+\scalebox{0.8}{
+    \input{ medida1-tredt.tikz }
+}
+\end{center}
+
+\begin{center}
+\scalebox{0.8}{
+    \input{ medida1-c50d50ts.tikz }
+}
+\end{center}
+
+##### 3.1.2.3 TR20
+
+|     | 63      | 125     | 250     | 500     | 1000    | 2000    | 4000    | 8000    | Promedio |
+|-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
+| TR  | NaN     | 700.20  | 580.57  | 691.56  | 713.49  | 737.08  | 646.37  | 564.20  | 558.11   |
+| EDT | 601.76  | 699.74  | 574.94  | 631.23  | 693.88  | 735.73  | 577.01  | 512.93  | 524.11   |
+| D50 | 0.65552 | 0.42420 | 0.54180 | 0.53377 | 0.57629 | 0.58143 | 0.67572 | 0.76474 | 0.75680  |
+| C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755 | 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010  |
+| TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
+
+\begin{center}
+\scalebox{0.8}{
+    \input{ medida1-tredt.tikz }
+}
+\end{center}
+
+\begin{center}
+\scalebox{0.8}{
+    \input{ medida1-c50d50ts.tikz }
+}
+\end{center}
+
+
+#### 3.1.3 Resultados y Concluciones
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
 
 \newpage
+
 ## 4. Metodología
 
 \begin{center}

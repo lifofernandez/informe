@@ -14,9 +14,9 @@ $else$
 \usepackage{geometry}
 \geometry{a4paper,portrait, 
 %margin=140pt,
-textwidth=425pt,
-lmargin=85pt,
-rmargin=85pt,
+textwidth=455pt,
+lmargin=80pt,
+rmargin=80pt,
 tmargin=60pt,
 bmargin=60pt,
 }
