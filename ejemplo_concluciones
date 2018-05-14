@@ -1,0 +1,63 @@
+## ejemplo tranjo anterior unof1
+
+Se ha prescindido del grafico de relación señal ruido por ser poco relevante el
+ruido que se advierte en la tabla de los valores del análisis de la señal. Esto
+mismo ocurre para cada toma de este trabajo.
+
+El retraso del directo de esta toma es de 5.15ms  (1.75/0.34m) Sabiendo que el
+emisor y el receptor se encuentran a una distancia de 1.25m del piso se pudo
+calcular la distancia recorrida de una reflexión temprana proveniente de dicho
+lugar: 3.05m Por lo que el tiempo de arribo es de 8.97ms,  la diferencia de
+esta reflexión con respecto al directo es de 3.82ms Esta diferencia disminuye
+al alejarse del parlante, para esto si comparamos con la toma dosf1 podemos
+observarlo:
+
+Directo>  Distancia: 3.25m     //   Retraso: 9.55ms 
+Reflexión temprana> Distancia :4.1m //   Retraso: 12.05ms 
+la diferencia de esta reflexión con respecto al directo es de 2.5ms
+
+Podemos decir que en la toma unof1 el directo, al superar los 5ms, la imagen de
+la fuente se fija en el directo y la reflexión contribuye a la sensación
+espacial o efecto de precedencia.
+
+### Claridad: 
+
+a partir de 125Hz predomina el sonido directo y las reflexiones tempranas ya
+que en los primeros  80ms se superan los 9 dB (C80, claridad musical) para
+todas las siguientes frecuencias estudiadas, por lo que se obtiene una señal
+bien definida. En cambio a los 63 Hz, donde TR se acerca a 1s, la claridad no
+supera los 3dB. El Ts a partir de 125hz tiene valores bajos, esto refiere
+también a un valor bajo. Teniendo en cuenta que para C50 (claridad de la voz)
+el valor recomendado para mejor sonoridad debe ser mayor a 2dB se obtienen
+datos optimos.
+
+Para la mayoría de las frecuencias la EDT es menor a T30, asi la señal gana
+claridad sin perder reverberación.  Existe para esta señal en este recinto un
+T20 que determina el decaimento del campo reverberante entre 0.33 y 0.81s y un
+T30 entre 0.4 y 0.72s
+
+
+## Dosf1 ejemplo tranjo anterior Dosf1
+El retraso del directo de esta toma es de 9.55ms  Sabiendo que el emisor y el
+receptor se encuentran a una distancia de 1.25m del piso se pudo calcular la
+distancia recorrida de una reflexión temprana proveniente de dicho lugar: 4.1m
+Por lo que el tiempo de arribo es de 12.05ms,  la diferencia de esta reflexión
+con respecto al directo es de 2.5ms Podemos decir que en la toma dosf1 el
+directo, al superar los 5ms, la imagen de la fuente se fija en el directo y la
+reflexión contribuye a la sensación espacial o efecto de precedencia.
+
+###Claridad:
+a partir de 125Hz predomina el sonido directo y las reflexiones tempranas ya
+que en los primeros  80ms se superan los 9 dB (C80, claridad musical) para
+todas las siguientes frecuencias estudiadas, por lo que se obtiene una señal
+bien definida. En cambio a los 63 Hz, donde TR se acerca a 1s, la claridad no
+supera los 3dB. El Ts a partir de 125hz tiene valores bajos, esto refiere
+también a un valor bajo. Teniendo en cuenta que para C50 (claridad de la voz)
+el valor recomendado para mejor sonoridad debe ser mayor a 2dB se obtienen
+datos optimos.
+
+Para la mayoría de las frecuencias la EDT es menor a T30, asi la señal gana
+claridad sin perder reverberación.  Existe para esta señal en este recinto un
+T20 que determina el decaimento del campo reverberante entre 0.4 y 0.72s y un
+T30 entre 0.4 y 0.7s
+

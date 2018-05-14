@@ -33,7 +33,7 @@ Las medidas de los cuatro modulos son:
 * El alto de los dos ambientes mas grandes es de 255cm y los otros dos tienen
   de 210cm altura.
 
-En la el plano a continuacion se puede puede ver la planta con vista superior del
+En la el plano a continuacion se puede ver la planta con vista superior del
 todo el recinto y luego el tabique que divide el ambiente superior (cocina) con el
 inferior (living-comedor).
 
@@ -52,7 +52,7 @@ las muestras:
   graves.
 
 * El monitor por el cual se reprodujo el barrido es de la marca "Edifire" modelo
-  "NT1000".
+  "RT1000".
 
 * La placa DAC-ADC con la cual se trabajo es  de la marca "Focusrite" modelo
   "Safire Pro 24".
@@ -111,17 +111,13 @@ esta porcion del recinto.
 | TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
 
 
-\begin{center}
-\scalebox{0.8}{
+\scalebox{0.7}{
     \input{ medida1-tredt.tikz }
 }
-\end{center}
 
-\begin{center}
-\scalebox{0.8}{
+\scalebox{0.7}{
     \input{ medida1-c50d50ts.tikz }
 }
-\end{center}
 
 ##### 3.1.2.2 TR30
 
@@ -134,17 +130,13 @@ esta porcion del recinto.
 | TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
 
 
-\begin{center}
-\scalebox{0.8}{
+\scalebox{0.7}{
     \input{ medida1-tredt.tikz }
 }
-\end{center}
 
-\begin{center}
-\scalebox{0.8}{
+\scalebox{0.7}{
     \input{ medida1-c50d50ts.tikz }
 }
-\end{center}
 
 ##### 3.1.2.3 TR20
 
@@ -156,17 +148,13 @@ esta porcion del recinto.
 | C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755 | 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010  |
 | TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
 
-\begin{center}
-\scalebox{0.8}{
+\scalebox{0.7}{
     \input{ medida1-tredt.tikz }
 }
-\end{center}
 
-\begin{center}
-\scalebox{0.8}{
+\scalebox{0.7}{
     \input{ medida1-c50d50ts.tikz }
 }
-\end{center}
 
 
 #### 3.1.3 Resultados y Concluciones
