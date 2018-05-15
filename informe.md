@@ -61,6 +61,7 @@ las muestras:
   "Octave" se empleó para procesar y analizar los registros y así obtener los
   valores y confeccionar los gráficos de los Parametros Acústicos. 
 
+
 ## 3. Medidas y Análisis de las Respuesta Impulso
 
 Las muestras que consideramos son 3. Para el registro de las mismas la fuente
@@ -69,25 +70,6 @@ hay entre los límites superiror e inferior del rectangulo principal y fue
 orientada hacia el centro del recinto. La altura de la fuente tanto como la del
 microfonó es tambien la misma en las 3 tómas, 127cm equidistantes al piso y al
 tencho. El micrófono se orientó hacia la fuente en las 3 muestras.
-
-En el registro de la muestra que se analizió en la **Medida 1** el microfono
-se posicionó en el centro del rectangulo principal, equidistante tanto a los
-laterales derecho e izquierdo como a los limites superior e inferior de
-esta porcion del recinto. 
-
-En la **medida 2** el micrófono se acercó al lateral derecho, 1/4 del total de
-la distancia que hay entre este y el lateral izquierdo, tambien se aproximó al
-limite superior del rectangulo. Quedando 1/4 mas cerca y 1/4 retirado hacia
-a la izquierda en relacion a la posicion del mismo y de la fuente en la
-Medida 1.
-
-Para la **medida 3** el criterio para reubicar el microfono fue similar al del la
-Medida 2; pero el micrófono se alejo de la fuente hacia al lateral izquierdo,
-3/4 del total de la distancia que hay entre este y el lateral derecho, tambien
-se retiró al limite inferior del rectangulo. Quedando 1/4 mas lejos y 1/4
-retirado hacia a la derecha en relacion a la posicion del mismo y de la fuente
-en la Medida 1.
-
  
 ### 3.1 Medida 1
 
@@ -100,194 +82,79 @@ esta porcion del recinto.
 
 #### 3.1.2 Parametros Acústicos, Valores y Gráficos 
 
-##### 3.1.2.1 TR60
-
-|     | 63      | 125     | 250     | 500     | 1000    | 2000    | 4000    | 8000    | Promedio |
+|     | 63Hz    | 125Hz   | 250Hz   | 500Hz   | 1000Hz  | 2000Hz  | 4000Hz  | 8000Hz  | Promedio |
 |-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
-| TR  | NaN     | 700.20  | 580.57  | 691.56  | 713.49  | 737.08  | 646.37  | 564.20  | 558.11   |
-| EDT | 601.76  | 699.74  | 574.94  | 631.23  | 693.88  | 735.73  | 577.01  | 512.93  | 524.11   |
-| D50 | 0.65552 | 0.42420 | 0.54180 | 0.53377 | 0.57629 | 0.58143 | 0.67572 | 0.76474 | 0.75680  |
-| C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755 | 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010  |
-| TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
-
+| TR  | NaN     | NaN     | 619.80  |  489.85 | 482.25  | 467.02  | 439.39  | 382.17  | 432.91   |
+| EDT | 433.07  | 511.61  | 433.41  |  480.33 | 446.53  | 469.07  | 470.42  | 472.78  | 462.41   |
+| D50 | 0.59804 | 0.42791 | 0.62067 |  0.77256| 0.74962 | 0.81429 | 0.82185 | 0.86290 | 0.85169  |
+| C50 | 1.7255  |-1.2611  | 2.1384  |  5.3107 | 4.7623  | 6.4195  | 6.6400  | 7.9891  | 7.5910   |
+| TS  | 30.489  | 38.010  | 32.172  |  20.739 | 19.383  | 15.357  | 13.732  | 10.000  | 11.170   |
 
 \scalebox{0.7}{
     \input{ medida1-tredt.tikz }
 }
 
 \scalebox{0.7}{
-    \input{ medida1-c50d50ts.tikz }
+    \input{ medida1-tsc50d50.tikz }
 }
 
-##### 3.1.2.2 TR30
+### 3.2 Medida 2
 
-|     | 63      | 125     | 250     | 500     | 1000    | 2000    | 4000    | 8000    | Promedio |
+#### 3.1.1 Descripción del registro y posición del micrófono
+
+En la **medida 2** el micrófono se acercó al lateral derecho, 1/4 del total de
+la distancia que hay entre este y el lateral izquierdo, tambien se aproximó al
+limite superior del rectangulo. Quedando 112cm mas cerca y 77cm retirado hacia
+a la izquierda en relacion a la posicion del mismo y de la fuente en la
+Medida 1.
+
+
+#### 3.1.2 Parametros Acústicos, Valores y Gráficos 
+
+|     | 63Hz    | 125Hz   | 250Hz   | 500Hz   | 1000Hz  | 2000Hz  | 4000Hz  | 8000Hz  | Promedio |
 |-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
-| TR  | NaN     | 700.20  | 580.57  | 691.56  | 713.49  | 737.08  | 646.37  | 564.20  | 558.11   |
-| EDT | 601.76  | 699.74  | 574.94  | 631.23  | 693.88  | 735.73  | 577.01  | 512.93  | 524.11   |
-| D50 | 0.65552 | 0.42420 | 0.54180 | 0.53377 | 0.57629 | 0.58143 | 0.67572 | 0.76474 | 0.75680  |
-| C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755 | 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010  |
-| TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
-
+| TR  | NaN     | NaN     | 568.35  | 502.34  | 465.32  | 464.09  | 454.82  | 401.28  | 423.23   | 
+| EDT | 795.40  | 648.88  | 418.74  | 463.27  | 471.60  | 519.88  | 496.00  | 362.82  | 409.14   |
+| D50 | 0.73338 | 0.76104 | 0.68291 | 0.74770 | 0.79421 | 0.78369 | 0.81667 | 0.89307 | 0.86226  |
+| C50 | 4.3944  | 5.0308  | 3.3318  | 4.7182  | 5.8651  | 5.5906  | 6.4882  | 9.2181  | 7.9657   |
+| TS  | 38.2753 | 32.6420 | 30.1322 | 18.9103 | 15.9804 | 16.9423 | 14.9980 | 9.6625  | 11.7637  |
 
 \scalebox{0.7}{
-    \input{ medida1-tredt.tikz }
+    \input{ medida2-tredt.tikz }
 }
 
 \scalebox{0.7}{
-    \input{ medida1-c50d50ts.tikz }
+    \input{ medida2-tsc50d50.tikz }
 }
 
-##### 3.1.2.3 TR20
+### 3.3 Medida 3
 
-|     | 63      | 125     | 250     | 500     | 1000    | 2000    | 4000    | 8000    | Promedio |
+#### 3.3.1 Descripción del registro y posición del micrófono
+
+Para la **medida 3** el criterio para reubicar el microfono fue similar al del la
+Medida 2; pero el micrófono se alejo de la fuente hacia al lateral izquierdo,
+3/4 del total de la distancia que hay entre este y el lateral derecho, tambien
+se retiró al limite inferior del rectangulo. Quedando 112cm mas lejos y 77cm
+retirado hacia a la derecha en relacion a la posicion del mismo y de la fuente
+en la Medida 1.
+
+#### 3.3.2 Parametros Acústicos, Valores y Gráficos 
+
+|     | 63Hz    | 125Hz   | 250Hz   | 500Hz   | 1000Hz  | 2000Hz  | 4000Hz  | 8000Hz  | Promedio |
 |-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
-| TR  | NaN     | 700.20  | 580.57  | 691.56  | 713.49  | 737.08  | 646.37  | 564.20  | 558.11   |
-| EDT | 601.76  | 699.74  | 574.94  | 631.23  | 693.88  | 735.73  | 577.01  | 512.93  | 524.11   |
-| D50 | 0.65552 | 0.42420 | 0.54180 | 0.53377 | 0.57629 | 0.58143 | 0.67572 | 0.76474 | 0.75680  |
-| C50 | 2.79425 | -1.3271 | 0.72787 | 0.58755 | 1.33575 | 1.42722 | 3.18843 | 5.11956 | 4.93010  |
-| TS  | 37.698  | 45.666  | 39.411  | 39.504  | 39.078  | 41.217  | 29.090  | 20.157  | 21.407   |
+| TR  | NaN     | NaN     | 564.22  |512.93   | 492.31  | 500.46  | 483.17  | 429.66  | 453.67   |
+| EDT | 667.82  | 686.43  | 640.25  |480.42   | 565.68  | 498.18  | 520.45  | 423.67  | 462.59   |
+| D50 | 0.61982 | 0.56322 | 0.47434 |0.66987  | 0.63231 | 0.68570 | 0.71619 | 0.75380 | 0.75524  |
+| C50 | 2.12268 | 1.10421 | -0.44617|3.07297  | 2.35446 | 3.38795 | 4.01993 | 4.85967 | 4.89338  |
+| TS  | 34.884  | 33.600  | 40.018  |25.747   | 27.207  | 24.146  | 22.966  | 18.361  | 18.798   |
 
 \scalebox{0.7}{
-    \input{ medida1-tredt.tikz }
+    \input{ medida3-tredt.tikz }
 }
 
 \scalebox{0.7}{
-    \input{ medida1-c50d50ts.tikz }
+    \input{ medida3-tsc50d50.tikz }
 }
-
  
-#### 3.1.3 Resultados y Concluciones
-Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
- 
-\newpage
-
-## 4. Metodología
-
-\begin{center}
-    \begin{tikzpicture}[node distance = 2cm, auto]
-
-    \tikzstyle{circulo} = [
-    	ellipse, 
-    	draw, 
-        %fill=red!20, 
-    	minimum height=4em,
-    	text centered, 
-    	node distance=2cm,
-	font=\bfseries
-    ]
-    \tikzstyle{block} = [
-    	rectangle, 
-    	draw, 
-    	%fill=blue!20, 
-    	text width=7em, 
-    	text centered, 
-    	minimum height=4em,
-    	node distance=2cm,
-    ]
-    \tikzstyle{line} = [
-    	draw,
-    	-latex',
-    ]
-
-    %\tikzset{flecha/.style={
-    %    decoration={
-    %    	markings,mark=at position 1 with %
-    %		{\arrow[scale=3,>=stealth]{>}}},
-    %    	postaction={decorate}
-    %    }
-    %}
-    \node [circulo]              (ana) {Análisis};
-    \node [circulo, text width=6em,below of=ana](dis) {Diseño de Gramática};
-    \node [circulo, text width=7em, below of=dis](dev) {Desarrollo del Contexto};
-    \node [circulo, below of=dev](doc) {Documentación};
-    \node [circulo, below of=doc](dep) {Publicación};
-
-    %\path [line] (ana) -- (dis) -- (dev) -- (doc) -- (dep);
-    \draw[densely dotted] (ana) -- (dis);
-    \draw[densely dotted] (dis) -- (dev);
-    \draw[densely dotted] (dev) -- (doc);
-    \draw[densely dotted] (doc) -- (dep);
-
-    \node [block, 
-        right of=ana,
-    	node distance=4cm,
-    ](boc) { 
-          Boceto de Gramática
-          / Prototipo de Entorno
-    };
 
 
-    \node [block, 
-        below of=boc
-    ](enc) { 
-          Consultas a músicos compositores y teóricos
-    };
-
-    \path [line] (ana) -- (boc) -- (enc) -- (dis);
-
-
-
-
-
-
-
-    \node [block, 
-        left of=dis,
-    	node distance=4cm,
-    ](def) { 
-	Definicion de Vocabulario y Jerarquías
-    };
-
-    %\node [block, 
-    %    below of=def
-    %](sin) { 
-    %      Sintaxis YAML
-    %};
-
-    \path [line] (dis) -- (def) |-  (dev) ;
-
-
-	  
-
-    \node [block, 
-        right of=dev,
-    	node distance=4cm,
-    ](per) { 
-	  Evaluación y desarrollo de herramientas
-    };
-
-
-    \node [block, 
-        below of=per
-    ](opt) { 
-	  Optimización
-    };
-
-    \path [line] (dev) -- (per) -- (opt) -- (doc);
-
-
-
-    \node [block, 
-        left of=doc,
-    	node distance=4cm,
-    ](fun) { 
-	Indicaciones de Funcionamiento
-    };
-
-    \node [block, 
-	below = 0.2cm of fun
-    ](for) { 
-	Revisión de Formateo 
-    };
-    \node [block, 
-	below = 0.2cm of for
-    ](not) { 
-	Incorporación de Notas y Etiquetas 
-    };
-
-    \path [line] (doc) -- (fun) -- (for) -- (not) -| (dep) ;
-
-     \end{tikzpicture}
-     
-\end{center}
