@@ -1,6 +1,6 @@
 ## 1. Recinto
 
-### 1.2 Descripcion y Características
+### 1.1 Descripcion y Características
 
 El interes por relevar las caracteristicas acusticas el recinto en cuestion
 devienen del cartecer personal y tiene como objetivo alcanzar el
@@ -18,7 +18,7 @@ Resultando en cuatro ambientes vinculados, que conforman la totalidad del recint
 que mas allá de que nos concentraremos en el porción mas grande y principal,
 todos los modulos deben ser considerados en las mediciones.
 
-### 1.1 Dimensiones y dibujo de la planta
+### 1.2 Dimensiones y dibujo de la planta
 
 Las medidas de los cuatro modulos son:
 
@@ -31,7 +31,7 @@ Las medidas de los cuatro modulos son:
 * 90cm  x 158 para el distribuidor a las otras habitaciones.
 
 * El alto de los dos ambientes mas grandes es de 255cm y los otros dos tienen
-  de 210cm altura.
+  de 217cm altura.
 
 En la el plano a continuacion se puede ver la planta con vista superior del
 todo el recinto y luego el tabique que divide el ambiente superior (cocina) con el
@@ -102,7 +102,7 @@ esta porcion del recinto.
 
 #### 3.1.1 Descripción del registro y posición del micrófono
 
-En la **medida 2** el micrófono se acercó al lateral derecho, 1/4 del total de
+En la **Medida 2** el micrófono se acercó al lateral derecho, 1/4 del total de
 la distancia que hay entre este y el lateral izquierdo, tambien se aproximó al
 limite superior del rectangulo. Quedando 112cm mas cerca y 77cm retirado hacia
 a la izquierda en relacion a la posicion del mismo y de la fuente en la
@@ -131,7 +131,7 @@ Medida 1.
 
 #### 3.3.1 Descripción del registro y posición del micrófono
 
-Para la **medida 3** el criterio para reubicar el microfono fue similar al del la
+Para la **Medida 3** el criterio para reubicar el microfono fue similar al del la
 Medida 2; pero el micrófono se alejo de la fuente hacia al lateral izquierdo,
 3/4 del total de la distancia que hay entre este y el lateral derecho, tambien
 se retiró al limite inferior del rectangulo. Quedando 112cm mas lejos y 77cm
