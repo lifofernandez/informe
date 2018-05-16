@@ -1,28 +1,28 @@
 ## 1. Recinto
 
-### 1.1 Descripcion y Características
+### 1.1 Descripción y Características
 
-El interes por relevar las caracteristicas acusticas el recinto en cuestion
-devienen del cartecer personal y tiene como objetivo alcanzar el
-acondicionamiento acustico de dicho ambiente con el fin de realizar 
-actividades de produccion musical del tipo hogareñas (composición, registro de
-fuentes sonoras, mezcla de multiples pistas, etc) de manera idonea.
+El interés por relevar las características acústicas el recinto en cuestión
+devienen del carácter personal y tiene como objetivo alcanzar el
+acondicionamiento acústico de dicho ambiente con el fin de realizar 
+actividades de producción musical del tipo hogareñas (composición, registro de
+fuentes sonoras, mezcla de múltiples pistas, etc.) de manera idónea.
 
-Las caracteristicas espaciales del recinto son particulares dado que se trata
+Las características espaciales del recinto son particulares dado que se trata
 de una cocina conectada a un living comedor, delimitada por un tabique central
 con una abertura en forma de barra y que ademas al cual se accede por un
-pasillo y que tambien esta conectada a un pequeño distribuidor que da paso a
+pasillo y que también esta conectada a un pequeño distribuidor que da paso a
 otras 2 habitaciones.  
 
 Resultando en cuatro ambientes vinculados, que conforman la totalidad del recinto y
 que mas allá de que nos concentraremos en el porción mas grande y principal,
-todos los modulos deben ser considerados en las mediciones.
+todos los módulos deben ser considerados en las mediciones.
 
 ### 1.2 Dimensiones y dibujo de la planta
 
-Las medidas de los cuatro modulos son:
+Las medidas de los cuatro módulos son:
 
-* 448cm x 308cm son las dimenciones el ambiente principal.
+* 448cm x 308cm son las dimensiones el ambiente principal.
 
 * 355cm x 192cm mide la el ambiente superior (cocina).
 
@@ -33,9 +33,9 @@ Las medidas de los cuatro modulos son:
 * El alto de los dos ambientes mas grandes es de 255cm y los otros dos tienen
   de 217cm altura.
 
-En la el plano a continuacion se puede ver la planta con vista superior del
+En la el plano a continuación se puede ver la planta con vista superior del
 todo el recinto y luego el tabique que divide el ambiente superior (cocina) con el
-inferior (living-comedor).
+inferior (living comedor).
 
 \begin{center}
 \includepdf[angle=90,pages=-,pagecommand={},width=\textwidth]{planta.pdf}
@@ -48,7 +48,7 @@ las muestras:
 
 
 * El micrófono utilizado es del tipo condensador de la marca "RØDE" modelo
-  "NT2-A", en su configuracion *Omnidireccional*, sin atenuación ni recorte de
+  "NT2-A", en su configuración *Omnidireccional*, sin atenuación ni recorte de
   graves.
 
 * El monitor por el cual se reprodujo el barrido es de la marca "Edifire" modelo
@@ -57,30 +57,30 @@ las muestras:
 * La placa DAC-ADC con la cual se trabajo es  de la marca "Focusrite" modelo
   "Safire Pro 24".
 
-* El software utilizado para reproduccir y grabar los barridos fué "Audacity" ,
+* El software utilizado para reproducir y grabar los barridos fué "Audacity" ,
   "Octave" se empleó para procesar y analizar los registros y así obtener los
-  valores y confeccionar los gráficos de los Parametros Acústicos. 
+  valores y confeccionar los gráficos de los Parámetros Acústicos. 
 
 
 ## 3. Medidas y Análisis de las Respuesta Impulso
 
 Las muestras que consideramos son 3. Para el registro de las mismas la fuente
-se posicionó en el centro del lateral derecho, a la mitad de la distancía que
-hay entre los límites superiror e inferior del rectangulo principal y fue
+se posicionó en el centro del lateral derecho, a la mitad de la distancia que
+hay entre los límites superior e inferior del rectángulo principal y fue
 orientada hacia el centro del recinto. La altura de la fuente tanto como la del
-microfonó es tambien la misma en las 3 tómas, 127cm equidistantes al piso y al
-tencho. El micrófono se orientó hacia la fuente en las 3 muestras.
+micrófono es también la misma en las 3 tomas, 127cm equidistantes al piso y al
+techo. El micrófono se orientó hacia la fuente en las 3 muestras.
  
 ### 3.1 Medida 1
 
 #### 3.1.1 Descripción del registro y posición del micrófono
 
-En el registro de la muestra que se analizió en la **Medida 1** el micrófono
-se posicionó en el centro del rectangulo principal, equidistante tanto a los
+En el registro de la muestra que se analizó en la **Medida 1** el micrófono
+se posicionó en el centro del rectángulo principal, equidistante tanto a los
 laterales derecho e izquierdo como a los limites superior e inferior de
-esta porcion del recinto. 
+esta porción del recinto. 
 
-#### 3.1.2 Parametros Acústicos, Valores y Gráficos 
+#### 3.1.2 Parámetros Acústicos, Valores y Gráficos 
 
 |     | 63Hz    | 125Hz   | 250Hz   | 500Hz   | 1000Hz  | 2000Hz  | 4000Hz  | 8000Hz  | Promedio |
 |-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
@@ -103,13 +103,13 @@ esta porcion del recinto.
 #### 3.1.1 Descripción del registro y posición del micrófono
 
 En la **Medida 2** el micrófono se acercó al lateral derecho, 1/4 del total de
-la distancia que hay entre este y el lateral izquierdo, tambien se aproximó al
-limite superior del rectangulo. Quedando 112cm mas cerca y 77cm retirado hacia
-a la izquierda en relacion a la posicion del mismo y de la fuente en la
+la distancia que hay entre este y el lateral izquierdo, también se aproximó al
+limite superior del rectángulo. Quedando 112cm mas cerca y 77cm retirado hacia
+a la izquierda en relación a la posición del mismo y de la fuente en la
 Medida 1.
 
 
-#### 3.1.2 Parametros Acústicos, Valores y Gráficos 
+#### 3.1.2 Parámetros Acústicos, Valores y Gráficos 
 
 |     | 63Hz    | 125Hz   | 250Hz   | 500Hz   | 1000Hz  | 2000Hz  | 4000Hz  | 8000Hz  | Promedio |
 |-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
@@ -131,14 +131,14 @@ Medida 1.
 
 #### 3.3.1 Descripción del registro y posición del micrófono
 
-Para la **Medida 3** el criterio para reubicar el microfono fue similar al del la
+Para la **Medida 3** el criterio para re ubicar el micrófono fue similar al del la
 Medida 2; pero el micrófono se alejo de la fuente hacia al lateral izquierdo,
-3/4 del total de la distancia que hay entre este y el lateral derecho, tambien
-se retiró al limite inferior del rectangulo. Quedando 112cm mas lejos y 77cm
-retirado hacia a la derecha en relacion a la posicion del mismo y de la fuente
+3/4 del total de la distancia que hay entre este y el lateral derecho, también
+se retiró al limite inferior del rectángulo. Quedando 112cm mas lejos y 77cm
+retirado hacia a la derecha en relación a la posición del mismo y de la fuente
 en la Medida 1.
 
-#### 3.3.2 Parametros Acústicos, Valores y Gráficos 
+#### 3.3.2 Parámetros Acústicos, Valores y Gráficos 
 
 |     | 63Hz    | 125Hz   | 250Hz   | 500Hz   | 1000Hz  | 2000Hz  | 4000Hz  | 8000Hz  | Promedio |
 |-----|---------|---------|---------|---------|---------|---------|---------|---------|----------|
