@@ -11,6 +11,9 @@ $else$
 
 \usepackage{lmodern}
 
+\usepackage{caption}
+\captionsetup[figure]{name=Figura}
+
 \usepackage{geometry}
 \geometry{a4paper,portrait, 
 %margin=140pt,

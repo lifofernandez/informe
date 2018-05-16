@@ -62,7 +62,7 @@ las muestras:
   valores y confeccionar los gráficos de los Parámetros Acústicos. 
 
 
-## 3. Medidas y Análisis de las Respuesta Impulso
+## 3. Medidas y Análisis de Respuesta Impulso
 
 Las muestras que consideramos son 3. Para el registro de las mismas la fuente
 se posicionó en el centro del lateral derecho, a la mitad de la distancia que
@@ -70,6 +70,17 @@ hay entre los límites superior e inferior del rectángulo principal y fue
 orientada hacia el centro del recinto. La altura de la fuente tanto como la del
 micrófono es también la misma en las 3 tomas, 127cm equidistantes al piso y al
 techo. El micrófono se orientó hacia la fuente en las 3 muestras.
+
+\bigskip
+\bigskip
+
+\begin{figure}[ht!]
+\centering
+\includegraphics[width=120mm]{medidas-posiciones.jpg}
+\caption{Posiciones de micrófono y de la fuente. \label{overflow}}
+\end{figure}
+
+\newpage
  
 ### 3.1 Medida 1
 
