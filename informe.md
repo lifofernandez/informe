@@ -11,7 +11,7 @@ fuentes sonoras, mezcla de múltiples pistas, etc.) de manera idónea.
 Las características espaciales del recinto son particulares dado que se trata
 de una cocina conectada a un living comedor, delimitada por un tabique central
 con una abertura en forma de barra y que ademas al cual se accede por un
-pasillo y que también esta conectada a un pequeño distribuidor que da paso a
+pasillo y que también esta conectado a un pequeño distribuidor que da paso a
 otras 2 habitaciones.  
 
 Resultando en cuatro ambientes vinculados, que conforman la totalidad del recinto y
@@ -64,7 +64,7 @@ las muestras:
 
 ## 3. Medidas y Análisis de Respuesta Impulso
 
-Las muestras que consideramos son 3. Para el registro de las mismas la fuente
+Las muestras que se consideraron son 3. Para el registro de las mismas la fuente
 se posicionó en el centro del lateral derecho, a la mitad de la distancia que
 hay entre los límites superior e inferior del rectángulo principal y fue
 orientada hacia el centro del recinto. La altura de la fuente tanto como la del
@@ -89,7 +89,7 @@ techo. El micrófono se orientó hacia la fuente en las 3 muestras.
 En el registro de la muestra que se analizó en la **Medida 1** el micrófono
 se posicionó en el centro del rectángulo principal, equidistante tanto a los
 laterales derecho e izquierdo como a los limites superior e inferior de
-esta porción del recinto. 
+esta sección del recinto. 
 
 #### 3.1.2 Parámetros Acústicos, Valores y Gráficos 
 
@@ -101,13 +101,19 @@ esta porción del recinto.
 | C50 | 1.7255  |-1.2611  | 2.1384  |  5.3107 | 4.7623  | 6.4195  | 6.6400  | 7.9891  | 7.5910   |
 | TS  | 30.489  | 38.010  | 32.172  |  20.739 | 19.383  | 15.357  | 13.732  | 10.000  | 11.170   |
 
-\scalebox{0.7}{
+
+\begin{center}
+\scalebox{0.55}{
     \input{ medida1-tredt.tikz }
 }
+\end{center}
 
-\scalebox{0.7}{
+\begin{center}
+\scalebox{0.55}{
     \input{ medida1-tsc50d50.tikz }
 }
+\end{center}
+\newpage
 
 ### 3.2 Medida 2
 
@@ -130,14 +136,20 @@ Medida 1.
 | C50 | 4.3944  | 5.0308  | 3.3318  | 4.7182  | 5.8651  | 5.5906  | 6.4882  | 9.2181  | 7.9657   |
 | TS  | 38.2753 | 32.6420 | 30.1322 | 18.9103 | 15.9804 | 16.9423 | 14.9980 | 9.6625  | 11.7637  |
 
-\scalebox{0.7}{
+\begin{center}
+\scalebox{0.55}{
     \input{ medida2-tredt.tikz }
 }
+\end{center}
 
-\scalebox{0.7}{
+\begin{center}
+
+\scalebox{0.55}{
     \input{ medida2-tsc50d50.tikz }
 }
+\end{center}
 
+\newpage
 ### 3.3 Medida 3
 
 #### 3.3.1 Descripción del registro y posición del micrófono
@@ -159,13 +171,18 @@ en la Medida 1.
 | C50 | 2.12268 | 1.10421 | -0.44617|3.07297  | 2.35446 | 3.38795 | 4.01993 | 4.85967 | 4.89338  |
 | TS  | 34.884  | 33.600  | 40.018  |25.747   | 27.207  | 24.146  | 22.966  | 18.361  | 18.798   |
 
-\scalebox{0.7}{
+\begin{center}
+\scalebox{0.55}{
     \input{ medida3-tredt.tikz }
 }
+\end{center}
 
-\scalebox{0.7}{
+\begin{center}
+
+\scalebox{0.55}{
     \input{ medida3-tsc50d50.tikz }
 }
+\end{center}
  
 
 

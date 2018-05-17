@@ -317,7 +317,7 @@ $endif$
 \bigskip
 $if(author)$
 \begin{center}
-Presentada por:
+Alumno:
 $author$
 \end{center}
 $endif$
